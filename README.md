@@ -1,5 +1,4 @@
-# 💫 About Me:
-💻 IT student
+# Olá 👋 sou Lívia Nascimento
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Livia-Nasc&theme=tokyonight&hide_border=false)<br/>
